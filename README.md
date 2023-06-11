@@ -1,6 +1,6 @@
 # sorting-notes
 
-(created August 15, 2021, and September 16, 2021; slightly revised and published June 11, 2023)
+(created August 15, 2021 and September 16, 2021; slightly revised and published June 11, 2023)
 
 sorting-notes is a Python script that creates a sortable HTML table of all the files in a directory. The table can be sorted by name, date modified, file size, and time modified.
 
