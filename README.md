@@ -10,7 +10,7 @@ The name sorting-notes is a retcon; the original name of the program is "test" (
 
 When sorting-notes will create an HTML file named based on the current time. For instance, if I were to run sorting-notes now, it would generate `new file 202306111251.html`.
 
-sorting-notes will by default generate a table for all the files in the directory you place it in. Changing the search_dir variable in line ?? will allow you to specify another directory if you so choose. For instance, changing it to `"Documents/` would generate a listing for the Documents directory located inslide the one you are currently working in. Male sure to enclide the trailing slash!
+sorting-notes will by default generate a table for all the files in the directory you place it in. Changing the search_dir variable in line ?? will allow you to specify another directory if you so choose. For instance, changing it to `"Documents/"` would generate a listing for the Documents directory located inslide the one you are currently working in. Make sure to include the trailing slash!
 
 sorting-notes is built to work with Stuart Langridge's [sorttable](https://www.kryogenix.org/code/browser/sorttable/) JavaScript library. [Download a copy of sorttable](https://www.kryogenix.org/code/browser/sorttable/sorttable.js) and place it in the same directory as the file sorting-notes generated in order to enable sorting. Click the table headings to sort; click them again to sort the other direction.
 ## [Example output](#)
