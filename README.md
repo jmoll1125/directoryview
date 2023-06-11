@@ -14,4 +14,4 @@ sorting-notes will by default generate a table for all the files in the director
 
 sorting-notes is built to work with Stuart Langridge's [sorttable](https://www.kryogenix.org/code/browser/sorttable/) JavaScript library. [Download a copy of sorttable](https://www.kryogenix.org/code/browser/sorttable/sorttable.js) and place it in the same directory as the file sorting-notes generated in order to enable sorting. Click the table headings to sort; click them again to sort the other direction.
 ## [Example output](https://jmoll1125.github.io/sorting-notes/demo/)
-## [Download sorting-notes](https://github.com/jmoll1125/sorting-notes/sorting-notes.py)
+## [Download sorting-notes](https://jmoll1125.github.io/sorting-notes/sorting-notes.py)
